@@ -1,5 +1,5 @@
-﻿//This is it. Let the c# journey begin - hopefully it will bring me to Unity game development, and the creation of some
-//awesome video games.
+﻿/*This is it. Let the c# journey begin - hopefully it will bring me to Unity game development, and the creation of 
+ some awesome video games.*/
 //February 20th, 2017.
 
 using System;
