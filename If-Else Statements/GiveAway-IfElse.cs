@@ -31,6 +31,7 @@ namespace IfStatements
             Console.ReadLine();
             */
 
+            //The code is more corectly written below.
             Console.WriteLine("Cailen's Big Giveaway");
             Console.WriteLine("Please select curtain 1, 2, or 3.");
             Console.Write("Your selection is?: ");
