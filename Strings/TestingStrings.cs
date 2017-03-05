@@ -29,6 +29,7 @@ namespace Strings
 
             //Writing a string using the user's first name, and telling the day of the week and date. 
             Console.WriteLine($"Guess what {myFirstName}? Today is {(CurrentDay.ToString("D"))}.");
+            Console.ReadLine();
         }
     }
 }
